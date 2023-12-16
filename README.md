@@ -43,4 +43,4 @@ result are save to following files:
 
 License:
 
-
+See license.txt file
