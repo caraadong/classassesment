@@ -12,7 +12,7 @@ Features:
 
 - calculation of mean improvement using NumPy
 
-- identification of students with improvemed scores
+- identification of students with improved scores
 
 - output of results to console and files
 
